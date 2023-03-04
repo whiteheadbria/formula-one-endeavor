@@ -1,1 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap');
+
+header{
+    font-family: 'Titillium Web', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: xx-large;
+    text-align: center;
+    color:#C8CCCE;
+    display: block;
+}
+
+#main-introduction {
+    color: #565F64;
+    text-align: justify;
+    
+}
+
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+}
+
+
 
