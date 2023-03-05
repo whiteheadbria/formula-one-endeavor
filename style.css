@@ -24,5 +24,19 @@ h2 {
     color: black;
 }
 
+a:active {
+    color:black;
+}
+
+a:hover {
+    color:#C8CCCE;
+}
+
+a:visited {
+    color: #565F64;
+}
+
+
+
 
 
